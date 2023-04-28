@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb1eae9-856d-4dda-9af0-655adf0d49a6" name="Changes" comment="Add Cache To project">
+    <list default="true" id="5bb1eae9-856d-4dda-9af0-655adf0d49a6" name="Changes" comment="Experiment Cache">
+      <change afterPath="$PROJECT_DIR$/Screenshots/ScreenShots1/Cpu_usage_Per_Thread.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/ScreenShots1/Memory_usage_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/ScreenShots1/cpu_graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/ScreenShots1/cpu_usage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/ScreenShots1/error_in_program.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/ScreenShots1/flameCode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/ScreenShots1/memory_usage_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/ScreenShots2/GetUserWithCache.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/ScreenShots2/GetUserWithoutCache.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Services/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682671702556</updated>
       <workItem from="1682671703868" duration="3509000" />
-      <workItem from="1682686609306" duration="4821000" />
+      <workItem from="1682686609306" duration="6632000" />
     </task>
     <task id="LOCAL-00001" summary="Add User Reading in project">
       <created>1682689987217</created>
@@ -99,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682690678968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Experiment Cache">
+      <created>1682691448986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682691448986</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add User Reading in project" />
     <MESSAGE value="Add Cache To project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Cache To project" />
+    <MESSAGE value="Experiment Cache" />
+    <option name="LAST_COMMIT_MESSAGE" value="Experiment Cache" />
   </component>
 </project>
