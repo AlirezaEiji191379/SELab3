@@ -35,7 +35,14 @@ public class UserService {
 
     public User GetUserByIdWithCache(int id) throws IOException {
         var cachedUser =  _memoCache.TryGetUserFromCache(id);
-        return cachedUser == null ? GetUserByIdWithoutCache(id) : cachedUser;
+        if(cachedUser == null){
+            var result = GetUserByIdWithoutCache(id);
+            _memoCache.AddUserToCache(result);
+            return result;
+        }
+        else{
+            return cachedUser;
+        }
     }
 
     private String GenerateFilePathFromUserId(int userId){

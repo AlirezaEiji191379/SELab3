@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb1eae9-856d-4dda-9af0-655adf0d49a6" name="Changes" comment="Add User Reading in project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Abstractions/IMemoCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/MemoCache.java" afterDir="false" />
+    <list default="true" id="5bb1eae9-856d-4dda-9af0-655adf0d49a6" name="Changes" comment="Add Cache To project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Services/UserService.java" afterDir="false" />
@@ -85,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682671702556</updated>
       <workItem from="1682671703868" duration="3509000" />
-      <workItem from="1682686609306" duration="4049000" />
+      <workItem from="1682686609306" duration="4821000" />
     </task>
     <task id="LOCAL-00001" summary="Add User Reading in project">
       <created>1682689987217</created>
@@ -94,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682689987217</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Cache To project">
+      <created>1682690678968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682690678968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add User Reading in project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add User Reading in project" />
+    <MESSAGE value="Add Cache To project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Cache To project" />
   </component>
 </project>
